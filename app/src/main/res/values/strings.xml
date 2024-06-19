@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="swap_button">Swap</string>
+    <string name="convert_button">Convert</string>
+    <string name="option_1">Length</string>
+    <string name="option_2">Weight</string>
+    <string name="option_3">Volume</string>
+    <string name="option_4">Time</string>
+    <string name="label">Choose a category</string>
+    <string name="input_txt">Input</string>
+    <string name="output_txt">Output</string>
+    <string name="equals">Equals</string>
+    <string name="from_unit">From Unit</string>
+    <string name="to_unit">To Unit</string>
+</resources>

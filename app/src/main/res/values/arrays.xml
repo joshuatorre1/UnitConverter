@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="options_list" >
+<!--        <item android:id="@+id/option_1"-->
+<!--            android:title="@string/option_1" />-->
+<!--        <item android:id="@+id/option_2"-->
+<!--            android:title="@string/option_2" />-->
+<!--        <item android:id="@+id/option_3"-->
+<!--            android:title="@string/option_3" />-->
+<!--        <item android:id="@+id/option_4"-->
+<!--            android:title="@string/option_4" />-->
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Volume</item>
+        <item>Time</item>
+        <item>Others</item>
+
+    </string-array>
+</resources>
